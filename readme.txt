@@ -7,3 +7,4 @@ Creating a branch dev.
 Creating a new branch is quick and simple.
 Adding an new change at dev.
 Stashing work at dev.
+Changing something of B at dev.
